@@ -4,8 +4,9 @@ the power of React.js.
 
 A brief documentation is covered in the files with explanation of every function and other stuff that is being used.
 
+Clone the repository in your local machine and execute the following commands in terminal : 
+
 # to-run-front-end
-Execute the following commands in terminal : 
 
 $ cd client-side
 
@@ -16,7 +17,6 @@ $ npm start
 This will start your website at `localhost:3000`.
 
 # to-run-back-end
-Execute the following commands in terminal : 
 
 $ cd server-side
 
